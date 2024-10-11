@@ -1,0 +1,102 @@
+.container{
+    border-radius: 10px;
+    margin:auto;
+    padding: 10px;
+    max-width: 900px;
+}
+
+.cont1{
+    text-align: center;
+    width: 350px;
+    height: 80px;
+    margin: auto;
+    font-size: 11px;
+}
+
+span{
+    color: blue;
+}
+
+.plans{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 10px;
+    justify-content: center;
+}
+h3{
+    margin-top: 0;
+}
+h2{
+    margin-bottom: 0;
+}
+.opt{
+    display: flex;
+    flex-direction: row;
+    vertical-align: top;
+}
+svg{
+    align-self: center;
+}
+
+
+.box1{
+    display: flex;
+    flex-direction: column;
+    flex: 0.4;
+    padding: 25px;
+    border-radius: 10px;
+    height: 290px;
+    margin-right: 0;
+    font-size: 12px;
+    align-self: center;
+}
+.box2{
+    display: flex;
+    flex-direction: column;
+    flex: 0.6;
+    padding: 25px;
+    border-radius: 10px;
+    height: 450px;
+    background-color:#050222c4;
+    color: white;
+}
+.box3{
+    display: flex;
+    flex-direction: column;
+    flex: 0.4;
+    padding: 25px;
+    border-radius: 10px;
+    height: 290px;
+    margin-left: 0;
+    font-size: 12px;
+    align-self: center;
+}
+
+.btn{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.btn1{
+    background-color: rgba(241, 241, 245, 0.986);
+    color: blue;
+    padding: 10px;
+    border-radius: 18px;
+    border: 1px solid blue;
+    width: 150px;
+    max-height: 40px;
+    font-size: 10px;
+    font-weight: 700;
+}
+.btn2{
+    background-color: rgba(107, 107, 243, 0.986);
+    color: white;
+    padding: 10px;
+    border-radius: 18px;
+    border: none;
+    width: 150px;
+    height: 40px;
+    font-size: 10px;
+    font-weight: 700;
+}
