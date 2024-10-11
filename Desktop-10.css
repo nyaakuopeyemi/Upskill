@@ -1,0 +1,75 @@
+.container{
+    border: 2px solid rgba(124, 158, 187, 0.39);
+}
+
+.sec1{
+    width: 900px;
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    flex: 1;
+    justify-content: space-evenly;
+}
+.box1{
+    width: 600px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box1 h1{
+    margin-bottom: 0;
+}
+.box1 p{
+    margin-top: 0;
+}
+span{
+    color: blue;
+}
+
+.sec2{
+    width: 900px;
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    flex: 1;
+    justify-content: space-evenly;
+}
+.sec2-1 p{
+    font-size: 10px;
+    padding-left: 10px;
+    margin-top: 0;
+}
+.sec3{
+    width: 550px;
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    justify-content: space-evenly;
+}
+.sec3 p{
+    font-size: 10px;
+}
+.sec4{
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: space-evenly;
+}
+.sec4 p{
+    font-size: 10px;
+}
+.sec5{
+    padding: 12px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: space-evenly;
+}
+.sec5 p{
+    font-size: 10px;
+}
