@@ -124,6 +124,7 @@ footer{
   padding-bottom: 20px;
   margin-top: 0;
   margin-bottom: 50px;
+  display: flex;
 }
 
 .plate {
@@ -133,4 +134,18 @@ footer{
   border-radius: 50%;
   background-color: rgb(231, 229, 229);
   box-shadow: 1px 5px 2px rgba(0, 0, 0, 0.2);
+}
+
+.BXN007{
+  width: 395px;
+  background-color: rgb(232, 235, 235);
+  border: 1px solid rgba(44, 102, 228, 0.308);
+  border-radius: 15px;
+  padding: 39px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-weight: 600;
+}
+.ARROW{
+  text-align: left;
 }
