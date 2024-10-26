@@ -9,7 +9,7 @@ body {
 }
 .pg1 {
   height: 150px;
-  padding: 10px;
+  padding: 15px;
   margin-bottom: 40px;
   text-align: center;
   background-image: url("blue wave.jpeg");
@@ -44,6 +44,12 @@ li {
   padding: 2px;
 }
 .column1 {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+img {
   width: 200px;
   display: flex;
   flex-direction: column;

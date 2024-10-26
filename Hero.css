@@ -14,7 +14,8 @@ body {
 }
 
 img {
-  width: 120px;
+  width: 100px;
+  margin: 20px;
 }
 
 .middle{
@@ -46,20 +47,22 @@ button{
 .slash{
   width: 130px;
 }
-
-#Features{
+select{
+  border: 2px solid white;
   margin-left: 0;
   margin-right: 0;
   margin-top: 15px;
   margin-bottom: 15px;
-  font-weight: bold;
+  font-weight: 600;
 }
+
 .Tryforfree{
   color: antiquewhite;
   background-color: blue;
   border-radius: 23px;
-  width: 120px;
-  height: 40px;
+  width: 100px;
+  height: 30px;
+  margin: 10px;
 }
 
 .Seamlessly{
