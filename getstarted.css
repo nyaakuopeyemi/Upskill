@@ -6,6 +6,7 @@ body {
 img {
   width: 120px;
   margin: 10px;
+  border-radius: 30px;
 }
 
 .container {

@@ -21,7 +21,7 @@ span{
     display: flex;
     flex-direction: row;
     margin-top: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     padding: 10px;
     justify-content: center;
 }
@@ -39,7 +39,6 @@ h2{
 svg{
     align-self: center;
 }
-
 
 .box1{
     display: flex;
@@ -76,7 +75,7 @@ svg{
 
 .btn{
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 .btn1{
     background-color: rgba(241, 241, 245, 0.986);
@@ -100,3 +99,13 @@ svg{
     font-size: 10px;
     font-weight: 700;
 }
+
+.logo {
+    text-align: center;
+    margin-top: 10px;
+  }
+  img {
+    width: 100px;
+    margin: 5px;
+    border-radius: 30px;
+  }

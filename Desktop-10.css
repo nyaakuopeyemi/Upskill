@@ -1,5 +1,6 @@
-.container{
-    border: 2px solid rgba(124, 158, 187, 0.39);
+body{
+    margin: 50px;
+    padding:auto;
 }
 img {
     width: 200px;
