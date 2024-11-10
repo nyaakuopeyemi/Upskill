@@ -1,6 +1,7 @@
 body{
     margin: 50px;
     padding:auto;
+    background-color: rgb(240, 240, 240)
 }
 img {
     width: 200px;
@@ -8,6 +9,7 @@ img {
     flex-direction: column;
     text-align: left;
     margin-top: 55px;
+    border-radius: 8px;
   }
 .sec1{
     width: 900px;
