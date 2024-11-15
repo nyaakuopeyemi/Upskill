@@ -25,6 +25,7 @@ body {
   form {
     display: flex;
     flex-direction: column;
+    margin-top: 30px;
   }
   input {
     border: 2px solid rgb(75, 173, 206);
@@ -36,10 +37,38 @@ body {
     background-color: rgb(75, 110, 206);
     color: white;
     align-self: center;
-    min-width: 500px;
+    width: 500px;
     font-weight: 600;
     padding: 15px;
     margin-top: 10px;
     border: 2px solid white;
     border-radius: 15px;
+  }
+
+  @media screen and (max-width:600px) {
+    img {
+      width: 150px;
+      margin: 10px;
+      border-radius: 30px;
+    }
+    .container {
+      border: 2px solid rgb(75, 173, 206);
+      border-radius: 15px;
+      text-align: center;
+      padding: 30px;
+      background-color: rgb(240, 240, 240);
+      max-width: 450px;
+      margin: auto;
+    }
+    button {
+      background-color: rgb(75, 110, 206);
+      color: white;
+      align-self: center;
+      width: 300px;
+      font-weight: 600;
+      padding: 15px;
+      margin-top: 10px;
+      border: 2px solid white;
+      border-radius: 15px;
+    }
   }

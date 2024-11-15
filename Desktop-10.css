@@ -82,3 +82,102 @@ span{
 .sec5 p{
     font-size: 10px;
 }
+
+@media screen and (max-width:600px) {
+    img {
+        width: 200px;
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        margin-top: 55px;
+        border-radius: 8px;
+        border: 2px solid gold;
+      }
+    .sec1{
+        font-size: 15px;
+        width: 500px;
+        padding: 8px;
+        margin: auto;
+        display: flex;
+        flex: 1;
+        justify-content: space-evenly;
+        border: 2px solid gold;
+    }
+    .box1{
+        width: 300px;
+        padding: 8px;
+        display: flex;
+        gap: 5px;
+        justify-content: space-evenly;
+        border: 2px solid gold;
+    }
+    .box1 h1{
+        margin-bottom: 0;
+        border: 2px solid gold;
+    }
+    .box1 p{
+        margin-top: 0;
+        border: 2px solid gold;
+    }
+    span{
+        color: blue;
+    }
+    
+    .sec2{
+        width: 500px;
+        padding: 10px;
+        margin: auto;
+        display: flex;
+        flex: 1;
+        justify-content: space-evenly;
+        border: 2px solid gold;
+    }
+    .sec2-1 p{
+        font-size: 10px;
+        padding-left: 10px;
+        margin-top: 0;
+        border: 2px solid gold;
+        width: 150;
+    }
+    .sec3{
+        width: 200px;
+        padding: 10px;
+        margin: auto;
+        display: flex;
+        flex-direction: row;
+        flex: 1;
+        justify-content: space-evenly;
+        border: 2px solid gold;
+    }
+    .sec3 p{
+        font-size: 10px;
+    }
+    .sec4{
+        padding: 10px;
+        width: 100px;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        justify-content: space-evenly;
+    }
+    .sec4 p{
+        font-size: 10px;
+    }
+    .sec5{
+        width: 100px;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        justify-content: space-evenly;
+        border: 2px solid gold;
+    }
+    .sec5 p{
+        font-size: 8px;
+    }  
+
+    h1{
+        font-size: 15px; 
+    }
+}
