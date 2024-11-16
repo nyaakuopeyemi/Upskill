@@ -71,7 +71,6 @@ img {
     background-repeat: no-repeat;
     background-position: center center center;
     color: white;
-    border: 3px solid green;
   }
   button {
     border: 2px solid rgb(75, 173, 206);
@@ -91,7 +90,6 @@ img {
     width: 550px;
     gap: 8px;
     background-color: rgb(241, 235, 235);
-    border: 2px solid greenyellow;
   }
   ul {
     padding: 0;
@@ -115,7 +113,7 @@ img {
     border-radius: 30px;
     margin-top: 20px;
   }
-  
+
   .div6{
     margin-top: 30px;
   }
