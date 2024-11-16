@@ -114,11 +114,16 @@ img {
 }
 
 @media screen and (max-width: 600px) {
+  body{
+    margin: 0;
+    padding: 0;
+  }
   .container {
     border-radius: 10px;
-    margin-top: 30px;
+    margin: auto;
     padding: 15px;
-    width: 550px;
+    width: 470px;
+    border: 2px solid green;
   }
 
   .cont1 {

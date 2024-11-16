@@ -43,13 +43,15 @@ img {
 
 @media screen and (max-width:600px) {
   body {
-    padding: 8px;
+    padding: 20px;
     justify-content: space-between;
     display: flex;
     flex-direction: column;
-    max-width: 450px;
-    margin-top: 30px;
+    width: 300px;
+    border-radius: 8px;
+    margin-top: 40px;
     background-color: rgb(240, 240, 240);
+    box-shadow: 0.5px 3px 5px rgba(41, 45, 48, 0.219);
   }
   
   img {
