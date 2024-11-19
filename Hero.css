@@ -189,6 +189,12 @@ footer {
     justify-content: space-evenly;
   }
   
+  .hero-section {
+    background-color: #f0f0f0;
+    padding: 0px;
+    margin: auto;
+  }
+
   .plate {
     margin: auto;
     width: 500px;
