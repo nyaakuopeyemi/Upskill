@@ -160,17 +160,17 @@ footer {
 
 @media screen and (max-width: 600px) {
   .hero-nav {
-    margin: 0px;
+    margin: 0;
     display: flex;
     flex: 1;
     flex-direction: row;
     text-align: center;
-    width: 550px;
+    max-width: 550px;
     justify-content: space-between;
   }
 
   img {
-    width: 100px;
+    width: 70px;
     margin-top: 20px;
     margin-bottom: 10px;
     margin-left: 10px;
