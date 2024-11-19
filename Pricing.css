@@ -123,9 +123,8 @@ img {
   .container {
     border-radius: 10px;
     margin: auto;
-    padding: 15px;
+    padding: 0;
     width: 470px;
-    border: 2px solid green;
   }
 
   .cont1 {
