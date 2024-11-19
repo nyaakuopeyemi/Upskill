@@ -166,11 +166,12 @@ footer {
     flex-direction: row;
     text-align: center;
     max-width: 550px;
-    justify-content: space-between;
+    gap: 30px;
   }
 
   .hero-nav button{
-    width: 30px;
+    width: 10px;
+    border: 2px solid green;
   }
 
   img {
@@ -184,10 +185,11 @@ footer {
   .middle {
     display: flex;
     flex-direction: row;
-    width: 350px;
+    width: 300px;
     margin: 0px;
-    justify-content: space-between;
+    gap: 25px;
     font-size: x-small;
+    border: 2px solid blue;
   }
   .end {
     display: flex;
