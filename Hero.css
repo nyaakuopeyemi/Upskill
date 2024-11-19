@@ -217,6 +217,7 @@ footer {
   .hero-section {
     background-color: #f0f0f0;
     padding: auto;
+    justify-content: center;
   }
 
   .plate {
