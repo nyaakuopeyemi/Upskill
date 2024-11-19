@@ -191,7 +191,7 @@ footer {
     flex-direction: row;
     max-width: 150px;
     margin: 8px;
-    gap: 15px;
+    gap: 5px;
     border: 2px solid blue;
   }
 
@@ -218,6 +218,10 @@ footer {
   .hero-section {
     background-color: #f0f0f0;
     padding: auto;
+  }
+
+  .midbox{
+    font-size: small;
   }
 
   .plate {
