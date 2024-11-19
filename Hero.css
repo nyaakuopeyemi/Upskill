@@ -162,10 +162,13 @@ footer {
   .hero-nav {
     margin: 0px;
     display: flex;
+    flex: 1;
     flex-direction: row;
     text-align: center;
+    width: 550px;
     justify-content: space-between;
   }
+
   img {
     width: 100px;
     margin-top: 20px;
@@ -195,7 +198,6 @@ footer {
     justify-content: space-between;
     align-items: center;
     margin: auto;
-    border: 2px solid yellow;
   }
   
   .hero-section {
