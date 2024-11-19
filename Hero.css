@@ -210,7 +210,7 @@ footer {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    margin: auto;
+    margin: 20px;
     padding: auto;
   }
   
