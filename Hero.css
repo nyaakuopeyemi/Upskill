@@ -184,14 +184,12 @@ footer {
     width: 290px;
     margin: 0px;
     justify-content: space-evenly;
-    border: 2px solid blue;
   }
   .end {
     display: flex;
     flex-direction: row;
     max-width: 130px;
     margin: 8px;
-    border: 2px solid blue;
   }
 
   .Tryforfree {
