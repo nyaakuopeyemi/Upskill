@@ -211,10 +211,12 @@ footer {
     justify-content: space-between;
     align-items: center;
     margin: auto;
+    padding: auto;
   }
   
   .hero-section {
     background-color: #f0f0f0;
+    padding: auto;
   }
 
   .plate {
