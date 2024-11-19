@@ -57,14 +57,14 @@ body {
       text-align: center;
       padding: 30px;
       background-color: rgb(240, 240, 240);
-      max-width: 450px;
+      max-width: 350px;
       margin: auto;
     }
     button {
       background-color: rgb(75, 110, 206);
       color: white;
       align-self: center;
-      width: 300px;
+      width: 200px;
       font-weight: 600;
       padding: 15px;
       margin-top: 10px;
