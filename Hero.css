@@ -188,12 +188,19 @@ footer {
     margin: 10px;
     justify-content: space-evenly;
   }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    border: 2px solid yellow;
+  }
   
   .hero-section {
     background-color: #f0f0f0;
-    padding: auto;
     margin: auto;
-    justify-content: center;
     border: 2px solid greenyellow;
   }
 
