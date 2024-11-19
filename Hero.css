@@ -191,7 +191,7 @@ footer {
     flex-direction: row;
     max-width: 150px;
     margin: 8px;
-    justify-content: space-evenly;
+    gap: 15px;
     border: 2px solid blue;
   }
 
