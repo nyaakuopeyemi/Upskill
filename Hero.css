@@ -181,7 +181,7 @@ footer {
   .middle {
     display: flex;
     flex-direction: row;
-    width: 280px;
+    width: 290px;
     margin: 0px;
     justify-content: space-evenly;
     border: 2px solid blue;
@@ -190,7 +190,7 @@ footer {
     display: flex;
     flex-direction: row;
     max-width: 150px;
-    margin: 10px;
+    margin: 8px;
     justify-content: space-evenly;
     border: 2px solid blue;
   }
